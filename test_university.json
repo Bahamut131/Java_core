@@ -1,0 +1,276 @@
+{
+  "name": "Test University",
+  "head": {
+    "type": "Student",
+    "firstName": "Victor",
+    "lastName": "Miller",
+    "patronymic": "Ivanovich",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Faculty of Information Technology",
+      "head": {
+        "type": "Student",
+        "firstName": "Andrei",
+        "lastName": "Semenov",
+        "patronymic": "Vladimirovich",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Department of Mathematics",
+          "head": {
+            "type": "Student",
+            "firstName": "Olga",
+            "lastName": "Ivanova",
+            "patronymic": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department of Mathematics",
+          "head": {
+            "type": "Student",
+            "firstName": "Olga",
+            "lastName": "Ivanova",
+            "patronymic": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faculty of Information Technology",
+      "head": {
+        "type": "Student",
+        "firstName": "Andrei",
+        "lastName": "Semenov",
+        "patronymic": "Vladimirovich",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Department of Mathematics",
+          "head": {
+            "type": "Student",
+            "firstName": "Olga",
+            "lastName": "Ivanova",
+            "patronymic": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department of Mathematics",
+          "head": {
+            "type": "Student",
+            "firstName": "Olga",
+            "lastName": "Ivanova",
+            "patronymic": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 101",
+              "head": {
+                "type": "Student",
+                "firstName": "Ivan",
+                "lastName": "Petrenko",
+                "patronymic": "Olexandrovich",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Sydorenko",
+                  "patronymic": "Ihorivna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Mykhailo",
+                  "lastName": "Kovalenko",
+                  "patronymic": "Viktorovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
